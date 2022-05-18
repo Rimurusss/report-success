@@ -1,0 +1,16 @@
+[
+  {
+    "name": "testcard",
+    "path": "/testcard",
+    "component": "C:\\\\Users\\\\milez\\\\OneDrive\\\\เดสก์ท็อป\\\\timesheetv2\\\\report-success\\\\pages\\\\testcard.vue",
+    "chunkName": "pages/testcard",
+    "_name": "_e0a1f392"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\milez\\\\OneDrive\\\\เดสก์ท็อป\\\\timesheetv2\\\\report-success\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_483add8d"
+  }
+]
